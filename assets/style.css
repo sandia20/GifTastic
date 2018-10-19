@@ -1,0 +1,44 @@
+
+body {
+    background-image: url("./images/clouds.jpg");
+}
+.container {
+    background-color: transparent;
+}
+
+
+#all-buttons {
+    margin-top:25px;
+}
+
+#all-images {
+    margin-top: 30px;
+    
+}
+
+button {
+    background-color: rgb(67, 67, 241);
+    color:white;
+    margin-right: 5px;
+}
+
+img {
+    margin: 10px;
+    max-height: 150px;
+}
+
+#search-form {
+    margin: 50px 20px 10px 0;
+}
+
+ input {
+    width: -webkit-fill-available;
+ }
+
+ #add-car {
+    margin-top: 5px;
+    background-color: rgb(67, 67, 241);
+    font-display:bold;
+    color:white;
+
+ }
